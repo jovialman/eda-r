@@ -1,0 +1,16 @@
+{
+    "contents" : "eda-r\n=====\n\nExploratory data analysis with R\n\nIn this module we perform exploratory data analysis on our data set using the R software. EDA(exploratory data analysis) consists of the following steps:\n\n1. Examining the summary statistics of the variable\n2. Plots\n3. Univariate analysis\n\n\n",
+    "created" : 1408343687995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2393019072",
+    "id" : "E7EE1ECD",
+    "lastKnownWriteTime" : 1408343764,
+    "path" : "~/GitHub/eda-r/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}

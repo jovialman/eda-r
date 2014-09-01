@@ -10,3 +10,10 @@ In this module we perform exploratory data analysis on our data set using the R 
 3. Univariate analysis
 
 
+Exploratory data analysis is of 2 types:
+
+1. Graphical 
+2. Non-graphical
+
+
+
